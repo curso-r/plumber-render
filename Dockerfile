@@ -1,4 +1,4 @@
-FROM trestletech/plumber
+FROM rstudio/plumber
 
 COPY api.R /
 
